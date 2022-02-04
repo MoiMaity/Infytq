@@ -1,0 +1,2 @@
+# Infytq
+infytq practice problems
